@@ -4,19 +4,22 @@
 
 // Typography
 
-p,
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900;1,9..40,1000&family=Xanh+Mono:ital@0;1&display=swap');h1,
 h1,
 h2,
 h3,
 h4,
 h5,
 h6,
+p,
 em,
 div,
 li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: 'DM Sans', sans-serif;
 }
 
 hr {
@@ -120,7 +123,6 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
 
     p {
       display: inline-block;
@@ -171,6 +173,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-family: 'Xanh Mono', monospace;
 }
 
 .navbar .dropdown-menu {
@@ -302,10 +305,10 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -322,7 +325,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.2rem;
   }
 }
 
