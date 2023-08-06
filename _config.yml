@@ -13,7 +13,7 @@ footer_text: #footer
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: glams.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://tungdnguyen.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -120,10 +120,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # blog_name will be displayed in your blog page
-blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
-blog_description:
-permalink:
+blog_name: projects # blog_name will be displayed in your blog page
+blog_nav_title: projects # your blog must have a title for it to be displayed in the nav bar
+blog_description: a simple whitespace theme for academics
+permalink: /projects/:year/:title/
 
 # Pagination
 pagination:
@@ -157,8 +157,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
