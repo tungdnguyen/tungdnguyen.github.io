@@ -3,7 +3,7 @@ layout: post
 title: Harmonizing - A crowdsourcing music making platform
 date: 2015-10-20 11:12:00-0400
 description: A crowdsourcing platform for creating community-based music (HackRice 2016’s winner)
-tags: crowdsourcing, crowdworking, music, signal-processing, community-work, social-computing
+tags: crowdsourcing crowdworking music signal-processing community-work social-computing
 categories: 
 related_posts: false
 thumbnail: assets/img/harmonizing/logo.jpg
