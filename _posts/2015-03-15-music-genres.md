@@ -31,11 +31,6 @@ The goal of the project is to create a music genre-conversion model. Given an au
 Create a Folk version of Nirvana's Smells Like Teen Spirit using Deep Neural Network
 ```
 
-
- Fast Fourier Transform and Deep Neural Network. 
-Generated musical blueprints for various genres (Rock, Blues, etc.,) using Short Time Fourier Transform.
-Utilized deep neural network and musical blueprints to convert songs to different genres. Achieved 60% in music genre classification model with GTZAN Dataset.
-
 <h4> Approach </h4>
 - The idea is to create an adversarial network in which we have one conversion model, and an adversarial music genre classifier.
 - Using Short Time Fourier Transform, vectorized audio files in [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
