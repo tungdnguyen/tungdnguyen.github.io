@@ -12,9 +12,15 @@ importance:
 <h3> Details </h3>
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
-    <strong> <a href="https://github.com/tungdnguyen/nasa-robot"> Code </a> </strong>
+    <strong> Authors:</strong> Tung Nguyen, Scarlett Hawk IIT
+    </div> 
+</div>
+<div class="row" >
+    <div class="col-sm-3" style="font-weight:300;"> 
+    <strong>Artifacts: <a href="https://github.com/tungdnguyen/nasa-robot"> Code </a> </strong>
     </div>
 </div>
+<hr>
 
 [LUNABOTICS](https://www.nasa.gov/press-release/nasa-announces-robotic-mining-competition-0) is an Artemis Student Challenge to educate college students on NASA Systems Engineering. Participating teams design and build a prototype robot for long-term human presence on Mars. During the simulation, robots must overcome regolith simulants, resources, weight, size, and remote/autonomous operations.
 

@@ -11,14 +11,18 @@ importance:
 ---
 {% assign pdf_path = "assets/pdf/style_transfer.pdf" | relative_url %}
 <h3> Details </h3>
+div class="row" >
+    <div class="col-sm-3" style="font-weight:300;"> 
+    <strong> Authors:</strong> Tung Nguyen, Tuan Tran
+    </div> 
+</div>
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
-    <strong> <a href="https://github.com/tungdnguyen/style-transfer"> Code </a> | 
+    <strong>Artifacts: <a href="https://github.com/tungdnguyen/style-transfer"> Code </a> | 
     <a href="{{ pdf_path | relative_url }}"> Paper </a> </strong>
     </div>
 </div>
-
-
+<hr>
 
 The term “style transfer” has been coined to describe such problem of training machines to “roughly” mimic human’s ability to interplay different image styles to create unique and complex visual experiences. To put it simply, style transfer is the problem of recomposing images in the style of other images; that is, given an original image, and a second image with specific style, we would like to create a new image with the style of the second image applied to the content of the original image. Even though it does not fully explain how humans create unique art pieces, style transfer is definitely the right logical step towards solving the more complex problem of understanding how humans create and perceive arts.
 

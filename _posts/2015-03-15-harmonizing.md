@@ -19,10 +19,16 @@ importance:
 <h3> Details </h3>
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
-    <strong> <a href="https://github.com/tungdnguyen/harmonizing"> Code </a> | 
+    <strong> Authors:</strong> Tung Nguyen, Linh Hoang
+    </div> 
+</div>
+<div class="row" >
+    <div class="col-sm-3" style="font-weight:300;"> 
+    <strong> Artifacts: <a href="https://github.com/tungdnguyen/harmonizing"> Code </a> | 
     <a href="https://devpost.com/software/harmonizing"> Hackrice </a> </strong>
     </div>
 </div>
+<hr>
 
 A crowdsourcing platform which let users creating community-based songs. Users can choose to pariticipate in a designated part in a song: vocal, backup, instrumental. With provided guides, participants record their chosen part and upload it. Then, different harmony parts from different users will be selected randomly and merged into the final song.
 
