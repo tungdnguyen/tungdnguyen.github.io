@@ -7,7 +7,7 @@ tags:
 categories: robotic computer-vision nasa mining kinect self-driving
 related_posts: false
 thumbnail: assets/img/robot/logo.png
-importance:
+importance: -6
 ---
 <h3> Details </h3>
 <div class="row" >

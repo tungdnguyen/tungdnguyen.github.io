@@ -7,7 +7,7 @@ tags: crowdsourcing crowdworking music signal-processing community-work social-c
 categories: 
 related_posts: false
 thumbnail: assets/img/harmonizing/logo.jpg
-importance: 
+importance: -3
 ---
 <div class="row mt-3">
         {% include figure.html path="assets/img/harmonizing/harmonizing.gif" class="img-fluid rounded z-depth-1" %}

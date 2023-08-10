@@ -3,11 +3,11 @@ layout: post
 title: Spotify’s social recommender
 date: 2019-10-20 11:12:00-0400
 description: Spotify’s music recommendation based on users’ followers' network
-tags: 
+tags: social-computing recommendation-system collaborative-filtering followers-network community-detection machine-learning nlp social-network-analysis
 categories: 
 related_posts: false
 thumbnail: assets/img/spotify/logo.png
-importance:
+importance: 2
 ---
 {% assign pdf_path = "assets/pdf/spotify.pdf" | relative_url %}
 <div class="row" >
@@ -17,17 +17,11 @@ importance:
 </div>
 <div class="row" >
     <div class="col-sm-6" style="font-weight:300;"> 
-    <strong> Advisor:</strong> Aron Culotta
+    <strong> Advisor:</strong> Aron Culotta - <a href="http://tapilab.github.io/"> TAPILAB </a>
     </div> 
 </div>
 <div class="row" >
-    <div class="col-sm-6" style="font-weight:300;"> 
-    <strong> <a href="http://tapilab.github.io/"> TAPILAB </a> </strong>
-    </div> 
-</div>
-<div class="row" >
-    <div class="col-sm-3" style="font-weight:300;"> 
-    <a href="{{ pdf_path | relative_url }}"> Presentation </a> </strong>
+    <div class="col-sm-3" style="font-weight:300;"> <strong> Artifacts: </strong><a href="{{ pdf_path | relative_url }}"> Presentation </a>
     </div>
 </div>
 <hr>
