@@ -4,9 +4,18 @@
   tag: work
   importance:
   achievements:
-    - Working on user query understanding and <a href="a"> Search Generative Experience</a>
-    - Improving and maintaining Search ranking software infrastructure.
-    - Analyzing and processing large web documents to increase accuracy of Search's question answering system.
+    - Working on user query understanding by using Machine Learning.
+    - Improving triggering quality for <a href="a"> Search Generative Experience</a>
+
+- year: 2018-2019
+  company: Text Analysis in the Public Interest (TAPI) Lab
+  title: "Research Assistant"
+  advisors: Aron Culotta (Tulane University)
+  tag: work
+  importance:
+  achievements:
+    - "Understanding online users (Twitter, Spotify) behaviors and their impact on social graph. Notable work include: tie-strength brand perception, music taste analysis"
+ 
 
 - year: 2019
   company: BMW
@@ -14,48 +23,25 @@
   tag: work
   importance:
   achievements:
-    - Built a real-time energy consumption prediction model that improves current incar reading methods by 80%
-    - Created a model to predicts possible attainable destinations, given a car’s gas level, with a 20% error margin.
-    - Researched on driver profiling to mitigate cold-start problem for driver behaviors prediction models.
+    - Created a model which predicts possible attainable destinations given a car’s gas level.
 
-- year: 2018-2019
-  company: Text Analysis in the Public Interest (TAPI) Lab
-  title: "Mentor: Aron Culotta (Tulane University)"
-  tag: research
-  importance:
-  achievements:
-    - Published a paper (<strong>first author</strong>) on estimating relationship strengths between a brand and its followers on Twitter, achieving average AUC of 0.84
-    - Collected public data of Twitter and Spotify users to research on understanding online user behaviors.
-    - Built a model which predicts possible shifts in music preferences of 10K Spotify users based on their playlists' data.
- 
 - year: 2018
-  company: Fast Fourier Transform in deep music genre conversion
-  title: "Mentors: Edward Reingold (Illinois Tech)"
-  tag: research
+  company: Prof. Edward M. Reingold Lab
+  title: "Research Assistant"
+  advisors: Edward Reingold (Illinois Tech)
+  tag: work
   importance:
   achievements:
-    - Researched on Fast Fourier Transform and its applications.
-    - Generated musical blueprints for various genres (Rock, Blues, etc.,) using Short Time Fourier Transform.
-    - Utilized deep neural network and musical blueprints to convert songs to different genres. Achieved 60% in music genre classification model with GTZAN Dataset.
+    - Used Short Time Fourier Transform to create a music genre-conversion model.
  
 - year: 2017
   company: Lynx Project – University of Chicago’s Bioinformatics group
-  title: "Mentors: Natalia Maltsev (University of Chicago), Gady Agam (Illinois Tech)"
-  tag: research
+  title: "Research Assistant"
+  advisors: Natalia Maltsev (UChicago), Gady Agam (Illinois Tech)
+  tag: work
   importance:
   achievements:
-    - Built a complete database of identical human protein sequences, aiding sequences identifying in bio-medical research.
-    - Developed a search engine (Flask, jQuery, AJAX, Bootstrap) to provide an easier access to the said database.
-    - Integrated BLAST, a powerful bio-medical tool, into the search engine for deeper sequences analysis and visualization.
-
-- year: 2014
-  company: Vietnam Academy of Science and Technology
-  title: "Mentors: Manh Nguyen, Khoi Nguyen (Vietnam Academy of Science and Technology)"
-  tag: research
-  importance:
-  achievements:
-    - Researched and published a paper on controlled release fertilizer using starch and clay for Vietnam’s mountainous climate
-    - Conducted live experiments on the developed fertilizer
+    - Created a database and visualization tool for human protein sequences. 
 
 - year: 2017-2018
   company: "CS331: Data Structures & Algorithms (Illinois Tech)"
@@ -63,7 +49,6 @@
   tag: teaching
   importance:
   achievements:
-    - Developed weekly review sessions and graded over 50 students’ programming assignments each semester.
 
 - year: 2016-2017
   company: "CS115-116: Object Oriented Programming (Illinois Tech)"
@@ -71,4 +56,47 @@
   tag: teaching
   importance:
   achievements:
-    - Developed weekly review sessions and graded over 50 students’ programming assignments each semester.
+
+- year: 2015-2019
+  company: Crafinity
+  title: Software Engineer
+  tag: work
+  importance:
+  achievements:
+    - Worked on Order Processing Pipeline for 10 Etsy stores. Handling ~50K orders and 1.5M in revenue.
+ 
+- year: 2014
+  company: Vietnam Academy of Science and Technology
+  title: Research Assistant
+  advisors: "Advisors: Manh Nguyen, Khoi Nguyen (Vietnam Academy of Science and Technology)"
+  tag: work
+  importance:
+  achievements:
+    - Researched on controlled release fertilizer using starch and clay for Vietnam’s mountainous climate
+
+- year: 2017
+  company: Illinois Tech Association of Computing Machinery
+  title: Board Member
+  advisors:
+  tag: other
+  importance:
+  achievements:
+    - Organized ScarlettHack - the first Major League Hacking Hackathon in Illinois Tech, attracting 200 developers.
+
+- year: 2014
+  company: G'LAMS
+  title: Founder
+  advisors:
+  tag: other
+  importance:
+  achievements:
+    - First Vietnamese spoken student musical.
+
+- year: 2014
+  company: After War Photography Exhibition
+  title: Designer & Photographer
+  advisors:
+  tag: other
+  importance:
+  achievements:
+    - An exhibition documented life after Vietnam war in Quang Tri (Vietnam), raising the society’s awareness of the war consequences
