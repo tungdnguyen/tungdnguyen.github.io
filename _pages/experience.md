@@ -12,14 +12,14 @@ nav_order: 3
 {% if item.tag == "work" %}
 {% assign work = item %}
 <div class="row" >
-    <div class="col-sm-3" style="text-align:right;"> <strong style="font-weight:500; font-size:16px; letter-spacing:1px; text-align:left;"> {{work.year}} </strong> </div>
+    <div class="col-sm-3" style="text-align:right;"> <strong style="font-weight:500; font-size:18px; letter-spacing:1px; text-align:left;"> {{work.year}} </strong> </div>
     <div class="col-sm-9"> 
-    <strong style="font-weight:500; font-size:16px; letter-spacing:1px;"> {{work.company}} </strong> <br>
-    <em style="font-size:14px; letter-spacing:1px;"> {{work.title}} </em> <br>
+    <strong style="font-weight:500; font-size:18px; letter-spacing:1px;"> {{work.company}} </strong> <br>
+    <em style="font-size:16px; letter-spacing:1px;"> {{work.title}} </em> <br>
     {% if work.advisors %}
-    <em style="font-size:14px; letter-spacing:1px;"> Advisors: {{work.advisors}} </em> <br>
+    <em style="font-size:16px; letter-spacing:1px;"> Advisors: {{work.advisors}} </em> <br>
     {% endif %}
-    <ul class="items" style="padding-left: 0;list-style-position:inside; font-size:14px;">
+    <ul class="items" style="padding-left: 0;list-style-position:inside; font-size:16px;">
     {% for achievement in work.achievements %}
         <li> {{achievement}} </li>
     {% endfor %}
@@ -34,11 +34,11 @@ nav_order: 3
 {% if item.tag == "teaching" %}
 {% assign work = item %}
 <div class="row" >
-    <div class="col-sm-3" style="text-align:right;"> <strong style="font-weight:500; font-size:16px; letter-spacing:1px; text-align:left;"> {{work.year}} </strong> </div>
+    <div class="col-sm-3" style="text-align:right;"> <strong style="font-weight:500; font-size:18px; letter-spacing:1px; text-align:left;"> {{work.year}} </strong> </div>
     <div class="col-sm-9"> 
-    <strong style="font-weight:500; font-size:16px; letter-spacing:1px;"> {{work.company}} </strong> <br>
-    <em style="font-size:14px; letter-spacing:1px;"> {{work.title}} </em> <br>
-    <ul class="items" style="padding-left: 0;list-style-position:inside;font-size:14px;">
+    <strong style="font-weight:500; font-size:18px; letter-spacing:1px;"> {{work.company}} </strong> <br>
+    <em style="font-size:16px; letter-spacing:1px;"> {{work.title}} </em> <br>
+    <ul class="items" style="padding-left: 0;list-style-position:inside;font-size:16px;">
     {% for achievement in work.achievements %}
         <li> {{achievement}} </li>
     {% endfor %}
@@ -54,11 +54,11 @@ nav_order: 3
 {% if item.tag == "other" %}
 {% assign work = item %}
 <div class="row" >
-    <div class="col-sm-3" style="text-align:right;"> <strong style="font-weight:500; font-size:16px; letter-spacing:1px; text-align:left;"> {{work.year}} </strong> </div>
+    <div class="col-sm-3" style="text-align:right;"> <strong style="font-weight:500; font-size:18px; letter-spacing:1px; text-align:left;"> {{work.year}} </strong> </div>
     <div class="col-sm-9"> 
-    <strong style="font-weight:500; font-size:16px; letter-spacing:1px;"> {{work.company}} </strong> <br>
-    <em style="font-size:14px; letter-spacing:1px;"> {{work.title}} </em> <br>
-    <ul class="items" style="padding-left: 0;list-style-position:inside;font-size:14px;">
+    <strong style="font-weight:500; font-size:18px; letter-spacing:1px;"> {{work.company}} </strong> <br>
+    <em style="font-size:16px; letter-spacing:1px;"> {{work.title}} </em> <br>
+    <ul class="items" style="padding-left: 0;list-style-position:inside;font-size:16px;">
     {% for achievement in work.achievements %}
         <li> {{achievement}} </li>
     {% endfor %}

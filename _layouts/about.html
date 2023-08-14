@@ -10,7 +10,6 @@ layout: default
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
-
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -40,6 +39,16 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+
+          <div>
+            <p>Feel free to shoot me an email @ <a href="mailto:ndoantung@gmail.com" title="email">ndoantung@gmail.com</a> <br>
+            <br>
+            You can also catch me at: <br>
+            <a href="https://www.linkedin.com/in/tung-d-nguyen" title="email">linkedin</a><br>
+            <a href="https://github.com/tungdnguyen" title="email">github</a><br>
+            <a href="https://scholar.google.com/citations?user=sd74zhkAAAAJ&hl=en" title="email">google scholar</a><br>
+          </div>
+
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
