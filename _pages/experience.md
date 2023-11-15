@@ -3,8 +3,8 @@ layout: schedule
 permalink: /experience/
 title: experiences
 description:
-nav: true
-nav_order: 3
+nav: 
+nav_order: 
 ---
 <h4> Professional </h4>
 <br>

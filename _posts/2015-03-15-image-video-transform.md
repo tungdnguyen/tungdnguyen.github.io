@@ -3,16 +3,16 @@ layout: post
 title: Image and Real-time Video Style Transfer
 date: 2015-10-20
 description: Image and video style transferring using Deep Neural Network
-tags: 
+tags: style-transfer computer-vision
 categories:
 related_posts: false
 thumbnail: assets/img/transfer/transfer_logo.png
-importance: 
+importance: 4
 ---
 {% assign pdf_path = "assets/pdf/style_transfer.pdf" | relative_url %}
 <h3> Details </h3>
-div class="row" >
-    <div class="col-sm-3" style="font-weight:300;"> 
+<div class="row" >
+    <div class="col-sm-6" style="font-weight:300;"> 
     <strong> Authors:</strong> Tung Nguyen, Tuan Tran
     </div> 
 </div>

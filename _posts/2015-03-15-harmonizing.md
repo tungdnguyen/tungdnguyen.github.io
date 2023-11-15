@@ -7,7 +7,7 @@ tags: crowdsourcing crowdworking music signal-processing community-work social-c
 categories: 
 related_posts: false
 thumbnail: assets/img/harmonizing/logo.jpg
-importance: -3
+importance: 3
 ---
 <div class="row mt-3">
         {% include figure.html path="assets/img/harmonizing/harmonizing.gif" class="img-fluid rounded z-depth-1" %}
@@ -23,7 +23,7 @@ importance: -3
     </div> 
 </div>
 <div class="row" >
-    <div class="col-sm-3" style="font-weight:300;"> 
+    <div class="col-sm-6" style="font-weight:300;"> 
     <strong> Artifacts: <a href="https://github.com/tungdnguyen/harmonizing"> Code </a> | 
     <a href="https://devpost.com/software/harmonizing"> Hackrice </a> </strong>
     </div>

@@ -19,4 +19,6 @@ Hi,
 
 I'm currently a Machine Learning Engineer working on user query understanding and [Search Generative Experience](https://labs.google/sge/?utm_source=sem&utm_medium=cpc&utm_campaign=us-search-sge-skws-exa&utm_content=rsa&gclid=CjwKCAjw_uGmBhBREiwAeOfsd8o6O0xzMW9mIG80dSOXBkSzhG7VfDRA7guFQrmF2uhHCR37uQWavRoCuKYQAvD_BwE&gclsrc=aw.ds) for Google Search.
 
-I obtained my B.S. in Computer Science (with Applied Math Minor) from Illinois Institute of Technology. I worked under professor [Aron Culotta](https://sse.tulane.edu/cs/faculty/culotta) at [Text Analysis in the Public Interest](https://tapilab.github.io/) (TAPI) lab and published a paper on [estimating brand-perceptions using Twitter followers network](https://dl.acm.org/doi/10.1145/3341161.3343675). **My main interests are natural language processing, social computing, human-computer interaction, and machine learning.**
+I obtained my B.S. in Computer Science (with Applied Math Minor) from Illinois Institute of Technology. My past experiences included social network analysis under professor [Aron Culotta](https://sse.tulane.edu/cs/faculty/culotta) at [Text Analysis in the Public Interest](https://tapilab.github.io/) (TAPI) lab, AI driver assistant at BMW, and audio processing with professor Edward M. Reingold. **My main interests are natural language processing, social computing, human-computer interaction, and machine learning.**
+
+I also have vested interests in capturing  --- check out my non-technical work and involvements here.
