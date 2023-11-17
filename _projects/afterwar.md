@@ -16,7 +16,7 @@ category: Tech
     <div class="col-sm-6" style="font-weight:300;"> 
     <strong> <a href="https://www.facebook.com/afterwar.project"> Facebook </a> </strong>
     </div>
-</div>
+</div><br>
 
 A social project initiated by senior students from Hanoi – Amsterdam High School for the Gifted, "After War Documentary & Photography Exhibition" seeks to shed light on the lingering effects of war in Quang Tri, one of Vietnam's regions most severely impacted by the French and American conflicts. The exhibition aims to raise public awareness about the enduring hardships faced by war victims and foster a message of hope and peace.
 
