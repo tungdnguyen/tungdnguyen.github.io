@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: non-technical
 permalink: /projects/
 description:
-nav: false
+nav: true
 nav_order: 2
 display_categories: [Tech, Other]
 horizontal: false
