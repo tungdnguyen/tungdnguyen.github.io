@@ -27,5 +27,5 @@ A social project initiated by senior students from Hanoi – Amsterdam High Scho
 
 Details on the exibition and my work
 <!-- ///assets/pdf/cv.pdf -->
-{% assign pdf_path = "assets/pdf/afterwar.pdf" | relative_url %}
+{% assign pdf_path = "assets/pdf/AfterWar.pdf" | relative_url %}
 <object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>
