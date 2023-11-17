@@ -17,7 +17,7 @@ importance: -6
 </div>
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
-    <strong>Artifacts: <a href="https://github.com/tungdnguyen/nasa-robot"> Code </a> </strong>
+    <strong>Artifacts: <a target="_blank" rel="noopener noreferrer" href="https://github.com/tungdnguyen/nasa-robot"> Code </a> </strong>
     </div>
 </div>
 <hr>

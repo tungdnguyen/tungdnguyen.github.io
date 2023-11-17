@@ -18,8 +18,8 @@ importance: 4
 </div>
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
-    <strong>Artifacts: <a href="https://github.com/tungdnguyen/style-transfer"> Code </a> | 
-    <a href="{{ pdf_path | relative_url }}"> Paper </a> </strong>
+    <strong>Artifacts: <a target="_blank" rel="noopener noreferrer" href="https://github.com/tungdnguyen/style-transfer"> Code </a> | 
+    <a target="_blank" rel="noopener noreferrer" href="{{ pdf_path | relative_url }}"> Paper </a> </strong>
     </div>
 </div>
 <hr>
@@ -53,3 +53,8 @@ The basic intuition behind Gram matrix is that by multiplying elements of each c
 <div class="caption">
     Training
 </div>
+
+<h4> Paper </h4>
+<!-- ///assets/pdf/cv.pdf -->
+{% assign pdf_path = "assets/pdf/style_transfer.pdf" | relative_url %}
+<object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>

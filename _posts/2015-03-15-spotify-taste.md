@@ -17,11 +17,11 @@ importance: 2
 </div>
 <div class="row" >
     <div class="col-sm-6" style="font-weight:300;"> 
-    <strong> Advisor:</strong> Aron Culotta - <a href="http://tapilab.github.io/"> TAPILAB </a>
+    <strong> Advisor:</strong> Aron Culotta - <a target="_blank" rel="noopener noreferrer" href="http://tapilab.github.io/"> TAPILAB </a>
     </div> 
 </div>
 <div class="row" >
-    <div class="col-sm-3" style="font-weight:300;"> <strong> Artifacts: </strong><a href="{{ pdf_path | relative_url }}"> Presentation </a>
+    <div class="col-sm-3" style="font-weight:300;"> <strong> Artifacts: </strong><a target="_blank" rel="noopener noreferrer" href="{{ pdf_path | relative_url }}"> Presentation </a>
     </div>
 </div>
 <hr>
@@ -71,3 +71,8 @@ music taste. Consequently, we aim to build a music recommender based on user's f
     Collaborative-filtering recommender AUC on 6-fold cross validation.<br>
     Our model yields <strong>0.76 AUC</strong>, a <strong>40% increase</strong> from baseline 0.46 AUC.
 </div>
+
+<h4> Paper </h4>
+<!-- ///assets/pdf/cv.pdf -->
+{% assign pdf_path = "assets/pdf/spotify.pdf" | relative_url %}
+<object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>

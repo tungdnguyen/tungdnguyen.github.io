@@ -24,8 +24,8 @@ importance: 3
 </div>
 <div class="row" >
     <div class="col-sm-6" style="font-weight:300;"> 
-    <strong> Artifacts: <a href="https://github.com/tungdnguyen/harmonizing"> Code </a> | 
-    <a href="https://devpost.com/software/harmonizing"> Hackrice </a> </strong>
+    <strong> Artifacts: <a target="_blank" rel="noopener noreferrer" href="https://github.com/tungdnguyen/harmonizing"> Code </a> | 
+    <a target="_blank" rel="noopener noreferrer" href="https://devpost.com/software/harmonizing"> Hackrice </a> </strong>
     </div>
 </div>
 <hr>

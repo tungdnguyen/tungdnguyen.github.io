@@ -22,8 +22,8 @@ importance:
 </div>
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
-    <strong> Artifacts: <a href="https://github.com/tungdnguyen/league_of_legends_predict"> Code </a> | 
-    <a href="{{ pdf_path | relative_url }}"> Paper </a> </strong>
+    <strong> Artifacts: <a target="_blank" rel="noopener noreferrer" href="https://github.com/tungdnguyen/league_of_legends_predict"> Code </a> | 
+    <a target="_blank" rel="noopener noreferrer" href="{{ pdf_path | relative_url }}"> Paper </a> </strong>
     </div>
 </div>
 <hr>
@@ -48,3 +48,8 @@ League of Legends (LoL) is one of the most popular online video games in the wor
 <div class="caption">
     How League of Legends data is collected
 </div>
+
+<h4> Paper </h4>
+<!-- ///assets/pdf/cv.pdf -->
+{% assign pdf_path = "assets/pdf/league_predict.pdf" | relative_url %}
+<object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>
