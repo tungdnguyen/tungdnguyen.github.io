@@ -3,7 +3,7 @@ layout: page
 title: G'LAMS
 description: a musical
 img: assets/img/glee/glams.jpeg
-importance: 0
+importance: 2
 category: Tech
 ---
 <div class="row" >

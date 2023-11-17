@@ -3,7 +3,7 @@ layout: page
 title: Glee Ams
 description: A music club
 img: assets/img/glee/glee_crop.jpeg
-importance: 0
+importance: 1
 category: Tech
 ---
 <div class="row mt-9">

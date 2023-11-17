@@ -3,7 +3,7 @@ layout: page
 title: After War
 description: a Vietnam war exhibition
 img: assets/img/glee/afterwar.jpg
-importance: 0
+importance: 3
 category: Tech
 ---
 

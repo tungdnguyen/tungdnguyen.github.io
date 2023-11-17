@@ -1,11 +1,17 @@
 ---
 layout: page
-title: k-zao
-description: exceptionally queer, handcrafted bespoke tailoring
-img: 
-importance: 0
+title: crafinity
+description: a personalized gifts business
+img: assets/img/glee/crafinity.jpg
+importance: 4
 category: Tech
 ---
+<div class="row mt-3-6">
+        {% include figure.html path="assets/img/glee/name_puzzle.png" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+    Our name puzzle
+</div>
 
 Work with my sister's Etsy personalization business with `order processing, photography, graphic design, marketing`.
 We are currently running 10 different Etsy stores.
