@@ -6,6 +6,12 @@ img: assets/img/glee/glams.jpeg
 importance: 2
 category: Tech
 ---
+
+<div class="row sm-2">
+        {% include figure.html path="assets/img/glee/thon_logo.png" %}
+</div>
+
+
 <div class="row" >
     <div class="col-sm-3" style="font-weight:300;"> 
     <strong> Role:</strong> Founder
@@ -17,6 +23,11 @@ category: Tech
     </div>
 </div>
 <hr>
+
+<div class="row mt-9">
+        {% include figure.html path="assets/img/glee/thon_nghe_thuat.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+
 In 2014, I led my music club Glee Ams to found an art collective titled `Hanoi-Amsterdam Hamlet Association of Art`. Our first project is `G'LAMS` - the first Vietnamese-speaking student musical show. Since the first run `Emily`, the show has captivated thousands of theatergoers and established a benchmark for student musical trends in Vietnam. Starting from a small high school students project, the shows is now a collaboration between 15 Vietnamese colleges and high schools.
 
 Check out G'LAMS latest info [here](https://www.facebook.com/glamsmusical).

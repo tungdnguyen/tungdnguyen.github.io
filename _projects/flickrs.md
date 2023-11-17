@@ -3,7 +3,7 @@ layout: page
 title: flickr
 description: my photography collection
 img: assets/img/glee/flickr.jpg
-importance: 5
+importance: 6
 category: Tech
 ---
 

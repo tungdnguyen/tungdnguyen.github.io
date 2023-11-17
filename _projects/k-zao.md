@@ -3,7 +3,7 @@ layout: page
 title: k-zao
 description: exceptionally queer, handcrafted bespoke tailoring
 img: assets/img/glee/k-zao.png
-importance: 4
+importance: 5
 category: Tech
 ---
 I partnered with Bao to outline the initial phase of their incredible tailoring journey. Based in Providence,RI, k-zao aims to expand Bao vision on redefining tailoring for queer. Read their [Boston Globe excerpt](https://www.bostonglobe.com/2023/09/29/metro/k-zao-queer-tailoring-studio-providence-designs-bespoke-suits-diverse-clientele/).

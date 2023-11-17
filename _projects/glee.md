@@ -28,6 +28,25 @@ I was the club president during 2013-2014. Some achievements:
 - [Lemon's Day 2013](https://www.facebook.com/ngayquachanh): Worked with 200 members to create chain events included Lemon’s Fair, Lemon’s Party and the Lemon Charity Concert. Successfully raised funds of $2500 for charity.
 - Founded and produced [G'LAMS](https://www.tungdnguyen.com/projects/glams/) - a musical. 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/glee/glee_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/glee/glee_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Glee Ams performance in Ams Got Talent Season 6 - 2014.
+</div>
+
+<div class="row mt-9">
+        {% include figure.html path="assets/img/glee/lemon.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+    Lemon Day
+</div>
+
 <h4> Notable works </h4>
 
 <p align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/BkUvPdgIB24?si=b0l2nwj9cAI-ScOf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </p>
