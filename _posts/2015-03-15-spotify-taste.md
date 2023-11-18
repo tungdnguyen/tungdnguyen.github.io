@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotify’s social recommender
+title: Spotify’s Social Recommender
 date: 2019-10-20 11:12:00-0400
 description: spotify’s music recommendation based on users’ followers' network
 tags: social-computing recommendation-system collaborative-filtering followers-network community-detection machine-learning nlp social-network-analysis

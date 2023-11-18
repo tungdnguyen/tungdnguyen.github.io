@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Competitive gaming matches prediction
+title: Competitive Gaming Matches Prediction
 date: 2018-10-20 11:12:00-0400
 description: utilize big data technologies to predict outcomes of League of Legends matches
 tags: machine-learning, spark, cosmos-db, azure, cloud

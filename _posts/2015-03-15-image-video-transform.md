@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image and real-time video style transfer
+title: Image and Real-time Video Style Transfer
 date: 2015-10-20
 description: image and video style transferring using deep neural net
 tags: style-transfer computer-vision
