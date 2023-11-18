@@ -6,23 +6,24 @@ img: assets/img/glee/glams.jpeg
 importance: 2
 category: Tech
 ---
-
+{% assign pdf_path = "assets/pdf/glams.pdf" | relative_url %}
 <div class="row sm-2">
         {% include figure.html path="assets/img/glee/thon_logo.png" %}
 </div>
 
-
+<h3> Details </h3>
 <div class="row" >
-    <div class="col-sm-3" style="font-weight:300;"> 
+    <div class="col-sm-6" style="font-weight:300;"> 
     <strong> Role:</strong> Founder
     </div> 
 </div>
 <div class="row" >
-    <div class="col-sm-3" style="font-weight:300;"> 
-    <strong> <a href="https://www.facebook.com/glamsmusical"> Facebook </a> </strong>
+    <div class="col-sm-6" style="font-weight:300;"> 
+    <strong> Artifacts: <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/glamsmusical"> Facebook </a> | 
+    <a target="_blank" rel="noopener noreferrer" href="{{ pdf_path | relative_url }}"> Portfolio </a> </strong>
     </div>
 </div>
-<hr>
+<br>
 
 <div class="row mt-9">
         {% include figure.html path="assets/img/glee/thon_nghe_thuat.jpg" class="img-fluid rounded z-depth-1" %}
@@ -39,5 +40,4 @@ Check out G'LAMS latest info [here](https://www.facebook.com/glamsmusical).
 </div>
 <br>
 <!-- ///assets/pdf/cv.pdf -->
-{% assign pdf_path = "assets/pdf/glams.pdf" | relative_url %}
 <object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>

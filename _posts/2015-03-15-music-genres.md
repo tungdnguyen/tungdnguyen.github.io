@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Music genre conversion with Fast Fourier Transform
+title: music genre conversion
 date: 2019-10-20 11:12:00-0400
-description:
+description: using Fast Fourier Transform and neural net for music genre translation
 tags: adversarial-network signal-processing music-generation machine-learning deep-learning
 categories: 
 related_posts: false
-thumbnail: assets/img/music/logo.png
-importance: 2
+thumbnail:
+importance: -2
 ---
 <div class="row" >
     <div class="col-sm-6" style="font-weight:300;"> 

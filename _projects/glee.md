@@ -7,20 +7,23 @@ importance: 1
 category: Tech
 ---
 <div class="row mt-9">
-        {% include figure.html path="assets/img/glee/glee.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/glee/glee.jpeg" class="img-fluid rounded z-depth-1" %}
 </div>
+
+<h3> Details </h3>
 <div class="row" >
-    <div class="col-sm-9" style="font-weight:300;"> 
+    <div class="col-sm-6" style="font-weight:300;"> 
     <strong> Role:</strong> President
     </div> 
 </div>
 <div class="row" >
     <div class="col-sm-6" style="font-weight:300;"> 
-    <strong> <a href="https://www.facebook.com/GleeAms"> Facebook </a> </strong> | <strong> <a href="https://www.youtube.com/@GleeAms/featured"> Youtube </a> </strong> | <strong> <a href="https://soundcloud.com/glee-ams"> Soundcloud </a> </strong>
+    <strong> Artifacts: </strong> <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/glamsmusical"> Facebook </a> | 
+    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@GleeAms/featured"> Youtube </a> | <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/glee-ams"> Soundcloud </a> 
     </div>
 </div>
 <br>
-Glee Ams is a club of Hanoi - Amsterdam High School for Amsers and non-Amsers who have the passion and talent for music, inspired by the TV series "Glee". 
+Glee Ams is a club of Hanoi - Amsterdam High School for Amsers and non-Amsers who have the passion and talent for music, inspired by the TV series "Glee".
 
 I was the club president during 2013-2014. Some achievements: 
 - Gathered ~200K views for our collective recordings, videos, podcasts, etc.,

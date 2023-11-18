@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Image and Real-time Video Style Transfer
+title: image and real-time video style transfer
 date: 2015-10-20
-description: Image and video style transferring using Deep Neural Network
+description: image and video style transferring using deep neural net
 tags: style-transfer computer-vision
 categories:
 related_posts: false
-thumbnail: assets/img/transfer/transfer_logo.png
-importance: 4
+thumbnail:
+importance: -6
 ---
 {% assign pdf_path = "assets/pdf/style_transfer.pdf" | relative_url %}
 <h3> Details </h3>

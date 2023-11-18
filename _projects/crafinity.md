@@ -13,6 +13,18 @@ category: Tech
     Our name puzzle
 </div>
 
+<h3> Details </h3>
+<div class="row" >
+    <div class="col-sm-6" style="font-weight:300;"> 
+    <strong> Role:</strong> SWE, Photographer, Planning
+    </div> 
+</div>
+<div class="row" >
+    <div class="col-sm-6" style="font-weight:300;"> 
+    <strong> Artifacts: </strong> <a target="_blank" rel="noopener noreferrer" href="https://www.janepersonalized.com"> Our Shop </a>
+    </div>
+</div>
+<br>
 Work with my sister's Etsy personalization business with `order processing, photography, graphic design, marketing`.
 We are currently running 10 different Etsy stores.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Spotify’s social recommender
+title: spotify’s social recommender
 date: 2019-10-20 11:12:00-0400
-description: Spotify’s music recommendation based on users’ followers' network
+description: spotify’s music recommendation based on users’ followers' network
 tags: social-computing recommendation-system collaborative-filtering followers-network community-detection machine-learning nlp social-network-analysis
 categories: 
 related_posts: false
-thumbnail: assets/img/spotify/logo.png
-importance: 2
+thumbnail:
+importance: -1
 ---
 {% assign pdf_path = "assets/pdf/spotify.pdf" | relative_url %}
 <div class="row" >

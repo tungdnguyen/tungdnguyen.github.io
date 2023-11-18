@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Self-driving Mars Robotic Miner in NASA Robotic Mining Competition 2018
+title: self-driving mars robotic miner in NASA Robotic Mining Competition 2018
 date: 2018-10-20 11:12:00-0400
-description: Build a mining robot for NASA Mars missions
+description: build a mining robot for NASA Mars missions
 tags: robotic computer-vision nasa mining kinect self-driving
 categories:
 related_posts: false
-thumbnail: assets/img/robot/logo.png
-importance: -6
+thumbnail:
+importance: -4
 ---
 <h3> Details </h3>
 <div class="row" >
