@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Glee Ams
-description: A music club
+description: a music club
 img: assets/img/glee/glee_crop.jpeg
 importance: 1
 category: Tech
@@ -28,7 +28,7 @@ Glee Ams is a club of Hanoi - Amsterdam High School for Amsers and non-Amsers wh
 I was the club president during 2013-2014. Some achievements: 
 - Gathered ~200K views for our collective recordings, videos, podcasts, etc.,
 - First place in [Ams' Got Talent Season 6](https://www.facebook.com/agtseason6): Producer
-- [Lemon's Day 2013](https://www.facebook.com/ngayquachanh): Worked with 200 members to create chain events included Lemon’s Fair, Lemon’s Party and the Lemon Charity Concert. Successfully raised funds of $2500 for charity.
+- [Lemon's Day 2013](https://www.facebook.com/ngayquachanh): Worked with 200 members to create chain events including Lemon’s Fair, Lemon’s Party, and the Lemon Charity Concert. Successfully raised $2500 for charity.
 - Founded and produced [G'LAMS](https://www.tungdnguyen.com/projects/glams/) - a musical. 
 
 <div class="row justify-content-sm-center">

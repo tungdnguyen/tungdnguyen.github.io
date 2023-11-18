@@ -1,6 +1,6 @@
 ---
 layout: page
-title: crafinity
+title: Crafinity
 description: a personalized gifts business
 img: assets/img/glee/crafinity.jpg
 importance: 4
@@ -25,12 +25,12 @@ category: Tech
     </div>
 </div>
 <br>
-Work with my sister's Etsy personalization business with `order processing, photography, graphic design, marketing`.
+I work on my sister's Etsy personalization business to support `order processing, photography, graphic design, marketing`.
 We are currently running 10 different Etsy stores.
 
 Check out [JanePersonalized.com](https://www.janepersonalized.com/) to learn more about all products.
 
-Support our small business in one of these stores: 
+Support our small business by visiting one of these stores: 
 - [Extramilestones](https://www.etsy.com/shop/ExtraMilestones?ref=l2-about-shopname#reviews)
 - [Tobetote](https://www.etsy.com/shop/TobeTote?ref=shop_sugg_market)
 - [JnEKids](https://www.etsy.com/shop/JandEKids?ref=shop_sugg_market)

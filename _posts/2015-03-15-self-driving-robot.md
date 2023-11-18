@@ -1,6 +1,6 @@
 ---
 layout: post
-title: self-driving mars robotic miner in NASA Robotic Mining Competition 2018
+title: Self-driving mars robotic miner in NASA Robotic Mining Competition 2018
 date: 2018-10-20 11:12:00-0400
 description: build a mining robot for NASA Mars missions
 tags: robotic computer-vision nasa mining kinect self-driving
@@ -35,9 +35,9 @@ I was part of Illinois Tech's automation team. We worked closely with fellow mec
 
 Our main achievements: 
 
-  - Created a neural obstacle detection system using Kinect's depth sensors and LibFreenect and OpenCV
+  - Created a neural obstacle detection system using Kinect's depth sensors, LibFreenect, and OpenCV
   - Integrated LIDAR and Adafruit Capacitive touch sensors to develop a fully automated robot maneuvering system
-  - Designd manual control system fall-back
+  - Designed manual control system fall-back
   - Successfully ran self-driving test drives on real mining evironment.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5FNd6rH5uJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -45,7 +45,7 @@ Our main achievements:
     Proof of life for mining robot
 </div>
 
-**Personal Note**: My desire to participate in this competition was inspired by watching [Vietnam Robocon](https://www.youtube.com/watch?v=FI2VTcHbP4Q),a robot contest for college students across the country,  during my childhood. Vietnam's tremendous effort on promoting STEM competitions/programs on national television during the 2000s incite my passion for STEMs. I hope Vietnamese govenment and education organizations can continue their supports for these programs during the future.
+**Personal Note**: My desire to participate in this competition stemmed from watching [Vietnam Robocon](https://www.youtube.com/watch?v=FI2VTcHbP4Q), a robot contest for college students across the country, during my childhood. Vietnam's tremendous effort in promoting STEM competitions/programs on national television during the 2000s incited my passion for STEMs. I hope Vietnamese govenment and education organizations can continue their supports for these programs in the future.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/m5mSOAzYh6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <div class="caption">

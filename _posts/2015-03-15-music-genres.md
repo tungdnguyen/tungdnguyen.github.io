@@ -1,6 +1,6 @@
 ---
 layout: post
-title: music genre conversion
+title: Music genre conversion
 date: 2019-10-20 11:12:00-0400
 description: using Fast Fourier Transform and neural net for music genre translation
 tags: adversarial-network signal-processing music-generation machine-learning deep-learning
@@ -23,7 +23,7 @@ importance: -2
 
 <h3> Details </h3>
 
-Fast Fourier Transform has been the backbone of signal processing. Under professor Edward M. Reingold, I conducted a independent research study on Fast Fourier Transform and its application on audio processing. 
+Fast Fourier Transform has been the backbone of signal processing. Under professor Edward M. Reingold, I conducted an independent research study on Fast Fourier Transform and its application on audio processing. 
 
 The goal of the project is to create a music genre-conversion model. Given an audio file, the model would algorithmatically modify the song to a different genre. The problem statement would then be: 
 
@@ -32,13 +32,13 @@ Create a Folk version of Nirvana's Smells Like Teen Spirit using Deep Neural Net
 ```
 
 <h4> Approach </h4>
-- The idea is to create an adversarial network in which we have one conversion model, and an adversarial music genre classifier.
+- Created an adversarial network including one conversion model and an adversarial music genre classifier.
 - Using Short Time Fourier Transform, vectorized audio files in [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
 - Using vectorize audio as input, created a music genre classification model.
-- Train a music generation model for each genre. We use GTZAN as our training data. We call these model `genre blueprints`.
+- Trained a music generation model for each genre using GTZAN as our training data. These models are called `genre blueprints`.
 
 <h4> Results </h4>
-Folk -> Rock conversion on Rock blueprints achieve **60% accuracy** on genre classifier.
+Folk -> Rock conversion on Rock blueprints achieved **60% accuracy** on genre classifier.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

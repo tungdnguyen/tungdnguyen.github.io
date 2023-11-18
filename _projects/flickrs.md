@@ -1,6 +1,6 @@
 ---
 layout: page
-title: flickr
+title: Flickr
 description: my photography collection
 img: assets/img/glee/flickr.jpg
 importance: 6
@@ -9,7 +9,7 @@ category: Tech
 
 Check out my full collections [here](https://www.flickr.com/people/130819837@N03/)
 
-**BTW** These are slideshows: 
+**BTW** These are the slideshows: 
 
 <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/130819837@N03/17111269577/in/album-72157651857761270/" title="Untitled"><img src="https://live.staticflickr.com/8696/17111269577_d812ae6dd7_c.jpg" width="800" height="533" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

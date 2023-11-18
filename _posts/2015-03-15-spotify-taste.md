@@ -1,6 +1,6 @@
 ---
 layout: post
-title: spotify’s social recommender
+title: Spotify’s social recommender
 date: 2019-10-20 11:12:00-0400
 description: spotify’s music recommendation based on users’ followers' network
 tags: social-computing recommendation-system collaborative-filtering followers-network community-detection machine-learning nlp social-network-analysis
@@ -28,40 +28,40 @@ importance: -1
 
 <h3> Details </h3>
 
-Spotify is one of the biggest music streaming service. The service provides social feature which allow an user to follow other users' music playlist. The community can also build a shared playlist together. Using Spotify users’ playlists and their corresponding Twitter’s
+Spotify is one of the biggest music streaming services. The service provides social feature which allows an user to follow other users' music playlists. The community can also build a shared playlist together. Using Spotify users’ playlists and their corresponding Twitter’s
 networks, we want to understand how friends (and followers) influence users’
 music taste. Consequently, we aim to build a music recommender based on user's follower network.
 
 <h4> Approach </h4>
 
-- Collected Spotify user's playlist and friends network. We scraped Twitter Streaming API for public tweets contains #NowPLaying hashtag, which is a Spotify specific tag. We consider these users to be highly influential on their followers' music predilection.
-- Created a follower network between collected users.
-- Created users' taste profiles based on their playlists characteristics: acousticness, danceability, energy, speechiness,valence, acousticness.
-- Incorporated Last.FM's song tags to analyze users's music listening habits (diversity, genre, etc.,)
-- Built a collaborative-filtering recommender which predict songs an user most likely listen to next based on their friends' profiles.
+- Collected Spotify users' playlist and friends network. We scraped Twitter Streaming API for public tweets that contain #NowPLaying hashtag, which is a Spotify specific tag. We consider these users to be highly influential on their followers' music predilection.
+- Created a follower network among collected users.
+- Created users' taste profiles based on their playlists characteristics: acousticness, danceability, energy, speechiness,and valence.
+- Incorporated Last.FM's song tags to analyze users' music listening habits (diversity, genre, etc.,)
+- Built a collaborative-filtering recommender which predicts songs an user most likely listen to next based on their friends' profiles.
 
 <h4> Results </h4>
 
 - Achieved **0.77 AUC** on 6-fold cross-validation in our next-song prediction model. A **40% increase** from baseline Spotify's current recommender (0.46 AUC).
 - Collected ~5k Spotify users' playlist and following/followers.
-- For 1000 users with taste profiles,  14% of the songs appeared in a follower/friend playlist will appeared on the seed users'playlist later on.
--  41% of the friends/followers for a seed users will share at least a common song with the seed user.
--  Understand user listening habits and playlist diversity using text tokenization, PCA and cosine similarity
--  See strong correlation between of Spotify's current recommender on user listening habits.
+- For 1000 users with taste profiles,  14% of the songs that appeared in a follower/friend's playlist would appear on the seed users' playlist later on.
+-  41% of the friends/followers of a seed user will share at least a common song with the seed user.
+-  Understood users' listening habits and playlist diversity using text tokenization, PCA, and cosine similarity.
+-  Observed a strong correlation between of Spotify's current recommender and users' listening habits.
 
 
 <div class="row mt-6-9">
         {% include figure.html path="assets/img/spotify/music_habit.png" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    User listening habit over time: cosine similarity between newly created playlist with existing playlists
+    Users' listening habit over time: cosine similarity between newly created playlist with existing playlists
 </div>
 
 <div class="row mt-6-9">
         {% include figure.html path="assets/img/spotify/spotify_recommend.png" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    Correlation between Spotify recommendations and user playlist (Our baseline)
+    Correlation between Spotify recommendations and users' playlists (Our baseline)
 </div>
 
 <div class="row mt-6-9">

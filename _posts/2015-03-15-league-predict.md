@@ -1,6 +1,6 @@
 ---
 layout: post
-title: competitive gaming matches prediction
+title: Competitive gaming matches prediction
 date: 2018-10-20 11:12:00-0400
 description: utilize big data technologies to predict outcomes of League of Legends matches
 tags: machine-learning, spark, cosmos-db, azure, cloud
@@ -28,7 +28,7 @@ importance: -5
 </div>
 <br>
 
-League of Legends (LoL) is one of the most popular online video games in the world. A game match contains 2 teams of 5 players and each player controls a character with a unique set of abilities. This means that there are many factors which can influence which team wins. There are influences both from the characters being used as well as the individual skill of the players. We have created a data pipeline using Microsoft Azure to process data from the LoL developer API and created a machine learning model to predict the winning team based both off of the player and character compositions of each team.
+League of Legends (LoL) is one of the most popular online video games in the world. A game match contains 2 teams of 5 players, and each player controls a character with a unique set of abilities. This means that there are many factors which can influence which team wins. There are influences both from the characters being used as well as the individual skill of the players. We have created a data pipeline using Microsoft Azure to process data from the LoL developer API and developed a machine learning model to predict the winning team based both on the player and character compositions of each team.
 
 **Notable work**
 - Created a data pipeline to collect data from League of Legends Developer API to store on Azure Cosmos DB.
