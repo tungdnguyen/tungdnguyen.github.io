@@ -18,3 +18,16 @@ Check out my full collections [here](https://www.flickr.com/people/130819837@N03
 <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/130819837@N03/35405347851/in/album-72157685506455915/" title="DSCF9888"><img src="https://live.staticflickr.com/4256/35405347851_7ac6656a04_c.jpg" width="800" height="533" alt="DSCF9888"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/130819837@N03/16697841554/in/album-72157652256915762/" title="Untitled"><img src="https://live.staticflickr.com/8826/16697841554_0867992df0_c.jpg" width="800" height="533" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+{% assign next_project = "projects/scarlet/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "projects/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>

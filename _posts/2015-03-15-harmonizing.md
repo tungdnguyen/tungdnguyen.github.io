@@ -43,3 +43,16 @@ We used node.js to create the server and Express as the framework. Then, we used
 <div class="caption">
     Participate in community-based songs
 </div>
+
+{% assign next_project = "projects/2018/self-driving-robot/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "blog/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>

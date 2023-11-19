@@ -76,3 +76,16 @@ music taste. Consequently, we aim to build a music recommender based on user's f
 <!-- ///assets/pdf/cv.pdf -->
 {% assign pdf_path = "assets/pdf/spotify.pdf" | relative_url %}
 <object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>
+
+{% assign next_project = "projects/2019/music-genres/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "blog/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>

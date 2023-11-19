@@ -42,3 +42,16 @@ Check out G'LAMS latest info [here](https://www.facebook.com/glamsmusical).
 <!-- ///assets/pdf/cv.pdf -->
 [<a target="_blank" rel="noopener noreferrer" href="{{ pdf_path | relative_url }}"> pdf link </a>]
 <object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>
+
+{% assign next_project = "projects/afterwar/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "projects/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>

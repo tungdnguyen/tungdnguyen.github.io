@@ -51,3 +51,16 @@ Our main achievements:
 <div class="caption">
     Vietnam Robocon team claimed champion in Asia-Pacific Robot Contest in 2004. <br> The first of our 6 champion titles during the competion's 20 years history.
 </div>
+
+{% assign next_project = "projects/2018/league-predict/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "blog/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>

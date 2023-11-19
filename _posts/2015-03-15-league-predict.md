@@ -53,3 +53,16 @@ League of Legends (LoL) is one of the most popular online video games in the wor
 <!-- ///assets/pdf/cv.pdf -->
 {% assign pdf_path = "assets/pdf/league_predict.pdf" | relative_url %}
 <object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>
+
+{% assign next_project = "projects/2018/image-video-transform/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "blog/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>

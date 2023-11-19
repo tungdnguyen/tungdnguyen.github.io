@@ -34,3 +34,16 @@ Support our small business by visiting one of these stores:
 - [Extramilestones](https://www.etsy.com/shop/ExtraMilestones?ref=l2-about-shopname#reviews)
 - [Tobetote](https://www.etsy.com/shop/TobeTote?ref=shop_sugg_market)
 - [JnEKids](https://www.etsy.com/shop/JandEKids?ref=shop_sugg_market)
+
+{% assign next_project = "projects/k-zao/" | relative_url %}
+<div class="row" style="margin-top: 20px;" >
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{next_project}}"> next project 👉 </a>
+    </div>
+</div>
+{% assign blog = "projects/" | relative_url %}
+<div class="row" style="margin-top: 3px;">
+    <div class="col-sm-9" style="font-weight:300;"> 
+    <a class="buttons" href="{{blog}}"> 👈 back to list </a>
+    </div>
+</div>
