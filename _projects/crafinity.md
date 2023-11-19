@@ -16,7 +16,7 @@ category: Tech
 <h3> Details </h3>
 <div class="row" >
     <div class="col-sm-6" style="font-weight:300;"> 
-    <strong> Role:</strong> SWE, Photographer, Planning
+    <strong> Role:</strong> Data Scientist, Software Engineer, Designer
     </div> 
 </div>
 <div class="row" >
