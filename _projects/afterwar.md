@@ -30,4 +30,5 @@ A social project initiated by senior students from Hanoi – Amsterdam High Scho
 
 Details on the exibition and my work
 <!-- ///assets/pdf/cv.pdf -->
+[<a target="_blank" rel="noopener noreferrer" href="{{ pdf_path | relative_url }}"> pdf link </a>]
 <object data="{{pdf_path | relative_url}}" width="850" height="900" type="application/pdf"></object>
