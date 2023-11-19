@@ -26,7 +26,7 @@ category: Tech
 <br>
 
 <div class="row mt-9">
-        {% include figure.html path="assets/img/glee/thon_nghe_thuat.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/glee/thon.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
 In 2014, I led my music club Glee Ams to found an art collective titled `Hanoi-Amsterdam Hamlet Association of Art`. Our first project is `G'LAMS` - the first Vietnamese-speaking student musical show. Since the first run `Emily`, the show has captivated thousands of theatergoers and established a benchmark for student musical trends in Vietnam. Started as a small high school students project, the shows is now a collaboration between 15 Vietnamese colleges and high schools.
